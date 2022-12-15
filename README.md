@@ -1,13 +1,13 @@
-# CS-Challenge-ENICarthage
+# Sight-Challenge-ENICarthage
 
-This is the Project Prototype made By IEEE ENICarthage Computer Society Student Chapter for the "Tunisians Students and Young Profesionnals 9th edition"'s CS Challenge named "MyBousta".
+This is the Project Prototype made By IEEE ENICarthage Student Branch  for the "Tunisians Students and Young Profesionnals 9th edition"'s Sight Challenge named "Akdhili".
 
-## What is MyBousta ?
+## What is Akdhili ?
 
-MyBousta is a platform developped to reduce Stress on Tunisian Posts, but how does it achieve that ?
-Well, to begin with, MyBousta will use a database shared with other governmental institutions that contains citizens' (who are registered to the platform) paperwork since the creation of their account.
-Mybousta then will re-use those document (if valid or not expired) which will greatly decrease stress on those institutions, also, when using Mybousta, a form will appear containing additionnal informations needed to complete those services.
-By doing that, the user will only have to go to a Tunisian Post branch (If needed, by booking an appointment) for signing papers, contracts, etc...
+Akdhili is a platform developped to reduce the problem of unobtainable products in Tunisia , but how does it achieve that ?
+Well, to begin with, Akdhili will use a database shared with other governmental institutions that contains Tunisian citizens and Residents informations , since the creation of their account.
+Akdhili then will re-use those informations which will greatly decrease stress on Markets , also, when using Akdhili , a form will appear containing additionnal informations needed to complete those services.
+By doing that, the user will only have to go to the nearest market to his house  for buying those products  , etc...
 
 ## How can i see the project ?
 
